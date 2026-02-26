@@ -37,9 +37,9 @@
 37.	A document is human readable.
 38.	A PDF can't be edited.
 39.	It is possible to create a PDF of a document.
-40.	Alright, a document may contain audios.
+40.	A document may contain audios.
 41.	Alright, a document could *be* an audio.
-42.	Alright, a document may contain videos.
+42.	A document may contain videos.
 43.	Alright, a document could *be* a video.
 44.	A document’s title is a string.
 45.	A document’s title can contain only certain ASCII symbols such as &():/\-_.
@@ -57,8 +57,11 @@
 57.	An electronic file exists or can be created for a document.
 58.	A document fits within a certain defined amount of space.
 59.	A document has an author.
-60.	A document exists.
-61.	A document that exists will continue to exist.
+60.	There is exactly one master source/copy of a document.
+61.	There is a master source/copy of a document.
+62.	A document exists.
+63.	A document that exists will continue to exist.
+
 
 
 
