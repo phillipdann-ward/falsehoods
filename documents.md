@@ -15,7 +15,7 @@
 15.	A document’s reference will be globally unique.
 16.	Document version identifiers always increase, are numbers, are strings…tell you what, just read <a href="https://github.com/xenoterracide/falsehoods/blob/master/versions.md">https://github.com/xenoterracide/falsehoods/blob/master/versions.md</a> and then come back here.
 17.	A version of a document has exactly one version identifier.
-18.	If a version of a document has multiple version identifiers then the version identifiers will all change at the same time.
+18.	If a document has multiple version identifiers then the version identifiers will all change at the same time.
 19.	A version of a document is uniquely identifiable from a combination of its reference and version identifier.
 20.	The latest version of a document is approved for use.
 21.	Earlier versions of a document are no longer in use.
@@ -56,5 +56,6 @@
 56.	A document has an author.
 57.	A document exists.
 58.	A document that exists will continue to exist.
+
 
 
