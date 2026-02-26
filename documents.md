@@ -18,37 +18,41 @@
 18.	If a version of a document has multiple version identifiers then the version identifiers will all change at the same time.
 19.	A document’s version identifier indicates the document’s approval status.
 20.	A version of a document is uniquely identifiable from a combination of its reference and version identifier.
-21.	A document has a reference.
-22.	A document has a version identifier.
-23.	A signed document is approved.
-24.	An approved document is signed.
-25.	A document will eventually be approved, at this or some future version.
-26.	An approved document remains approved.
-27.	A document contains only text.
-28.	Alright, a document may contain pictures.
-29.	A document’s content is in a defined layout.
-30.	A document’s content is in one of a small set of defined layouts.
-31.	Alright, a document may *be* a picture.
-32.	A document is printable.
-33.	A document is signable.
-34.	A document is human readable.
-35.	It is possible to create a PDF format of a document.
-36.	Alright, a document may contain videos.
-37.	Alright, a document could *be* a video.
-38.	A document’s title is a string.
-39.	A document’s title can contain only certain ASCII symbols such as &():/\-_.
-40.	A document’s title can contain only printable ASCII characters.
-41.	A document’s title uses the ASCII character set.
-42.	A document’s title uses any single character set.
-43.	A document’s title fits within a certain defined amount of space.
-44.	A document has exactly one title.
-45.	A document’s title never changes.
-46.	An electronic document’s filename never changes.
-47.	An electronic document’s filetype never changes.
-48.	A document consists of exactly one electronic file.
-49.	The number of electronic files making up a document does not change.
-50.	An electronic file exists or can be created for a document.
-51.	A document fits within a certain defined amount of space.
-52.	A document has an author.
-53.	A document exists.
-54.	A document that exists will continue to exist.
+19.	The latest version of a document is approved for use.
+20.	Earlier versions of a document are no longer in use.
+21.	A document’s version identifier indicates the document’s approval status.
+22.	A version of a document is uniquely identifiable from a combination of its reference and version identifier.
+23.	A document has a reference.
+24.	A document has a version identifier.
+25.	A signed document is approved.
+26.	An approved document is signed.
+27.	A document will eventually be approved, at this or some future version.
+28.	An approved document remains approved.
+29.	A document contains only text.
+30.	Alright, a document may contain pictures.
+31.	A document’s content is in a defined layout.
+32.	A document’s content is in one of a small set of defined layouts.
+33.	Alright, a document may *be* a picture.
+34.	A document is printable.
+35.	A document is signable.
+36.	A document is human readable.
+37.	It is possible to create a PDF format of a document.
+38.	Alright, a document may contain videos.
+39.	Alright, a document could *be* a video.
+40.	A document’s title is a string.
+41.	A document’s title can contain only certain ASCII symbols such as &():/\-_.
+42.	A document’s title can contain only printable ASCII characters.
+43.	A document’s title uses the ASCII character set.
+44.	A document’s title uses any single character set.
+45.	A document’s title fits within a certain defined amount of space.
+46.	A document has exactly one title.
+47.	A document’s title never changes.
+48.	An electronic document’s filename never changes.
+49.	An electronic document’s filetype never changes.
+50.	A document consists of exactly one electronic file.
+51.	The number of electronic files making up a document does not change.
+52.	An electronic file exists or can be created for a document.
+53.	A document fits within a certain defined amount of space.
+54.	A document has an author.
+55.	A document exists.
+56.	A document that exists will continue to exist.
