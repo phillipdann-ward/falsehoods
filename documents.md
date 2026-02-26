@@ -36,26 +36,29 @@
 36.	A document is signable.
 37.	A document is human readable.
 38.	It is possible to create a PDF format of a document.
-39.	Alright, a document may contain videos.
-40.	Alright, a document could *be* a video.
-41.	A document’s title is a string.
-42.	A document’s title can contain only certain ASCII symbols such as &():/\-_.
-43.	A document’s title can contain only printable ASCII characters.
-44.	A document’s title uses the ASCII character set.
-45.	A document’s title uses any single character set.
-46.	A document’s title fits within a certain defined amount of space.
-47.	A document has exactly one title.
-48.	A document’s title never changes.
-49.	A document has a title.
-50.	An electronic document’s filename never changes.
-51.	An electronic document’s filetype never changes.
-52.	A document consists of exactly one electronic file.
-53.	The number of electronic files making up a document does not change.
-54.	An electronic file exists or can be created for a document.
-55.	A document fits within a certain defined amount of space.
-56.	A document has an author.
-57.	A document exists.
-58.	A document that exists will continue to exist.
+39.	Alright, a document may contain audios.
+40.	Alright, a document could *be* an audio.
+41.	Alright, a document may contain videos.
+42.	Alright, a document could *be* a video.
+43.	A document’s title is a string.
+44.	A document’s title can contain only certain ASCII symbols such as &():/\-_.
+45.	A document’s title can contain only printable ASCII characters.
+46.	A document’s title uses the ASCII character set.
+47.	A document’s title uses any single character set.
+48.	A document’s title fits within a certain defined amount of space.
+49.	A document has exactly one title.
+50.	A document’s title never changes.
+51.	A document has a title.
+52.	An electronic document’s filename never changes.
+53.	An electronic document’s filetype never changes.
+54.	A document consists of exactly one electronic file.
+55.	The number of electronic files making up a document does not change.
+56.	An electronic file exists or can be created for a document.
+57.	A document fits within a certain defined amount of space.
+58.	A document has an author.
+59.	A document exists.
+60.	A document that exists will continue to exist.
+
 
 
 
