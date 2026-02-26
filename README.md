@@ -1,5 +1,3 @@
-# falsehoods
+# Falsehoods About Documents.
 
-# Falsehood About Documents.
-
-<a href="ccc">Documents</a>
+<a href="https://github.com/phillipdann-ward/falsehoods/blob/main/documents.md">Documents</a>
