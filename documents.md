@@ -35,29 +35,31 @@
 35.	A document is printable.
 36.	A document is signable.
 37.	A document is human readable.
-38.	It is possible to create a PDF format of a document.
-39.	Alright, a document may contain audios.
-40.	Alright, a document could *be* an audio.
-41.	Alright, a document may contain videos.
-42.	Alright, a document could *be* a video.
-43.	A document’s title is a string.
-44.	A document’s title can contain only certain ASCII symbols such as &():/\-_.
-45.	A document’s title can contain only printable ASCII characters.
-46.	A document’s title uses the ASCII character set.
-47.	A document’s title uses any single character set.
-48.	A document’s title fits within a certain defined amount of space.
-49.	A document has exactly one title.
-50.	A document’s title never changes.
-51.	A document has a title.
-52.	An electronic document’s filename never changes.
-53.	An electronic document’s filetype never changes.
-54.	A document consists of exactly one electronic file.
-55.	The number of electronic files making up a document does not change.
-56.	An electronic file exists or can be created for a document.
-57.	A document fits within a certain defined amount of space.
-58.	A document has an author.
-59.	A document exists.
-60.	A document that exists will continue to exist.
+38.	A PDF can't be edited.
+39.	It is possible to create a PDF of a document.
+40.	Alright, a document may contain audios.
+41.	Alright, a document could *be* an audio.
+42.	Alright, a document may contain videos.
+43.	Alright, a document could *be* a video.
+44.	A document’s title is a string.
+45.	A document’s title can contain only certain ASCII symbols such as &():/\-_.
+46.	A document’s title can contain only printable ASCII characters.
+47.	A document’s title uses the ASCII character set.
+48.	A document’s title uses any single character set.
+49.	A document’s title fits within a certain defined amount of space.
+50.	A document has exactly one title.
+51.	A document’s title never changes.
+52.	A document has a title.
+53.	An electronic document’s filename never changes.
+54.	An electronic document’s filetype never changes.
+55.	A document consists of exactly one electronic file.
+56.	The number of electronic files making up a document does not change.
+57.	An electronic file exists or can be created for a document.
+58.	A document fits within a certain defined amount of space.
+59.	A document has an author.
+60.	A document exists.
+61.	A document that exists will continue to exist.
+
 
 
 
