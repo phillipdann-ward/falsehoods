@@ -47,12 +47,14 @@
 45.	A document’s title fits within a certain defined amount of space.
 46.	A document has exactly one title.
 47.	A document’s title never changes.
-48.	An electronic document’s filename never changes.
-49.	An electronic document’s filetype never changes.
-50.	A document consists of exactly one electronic file.
-51.	The number of electronic files making up a document does not change.
-52.	An electronic file exists or can be created for a document.
-53.	A document fits within a certain defined amount of space.
-54.	A document has an author.
-55.	A document exists.
-56.	A document that exists will continue to exist.
+48.	A document has a title.
+49.	An electronic document’s filename never changes.
+50.	An electronic document’s filetype never changes.
+51.	A document consists of exactly one electronic file.
+52.	The number of electronic files making up a document does not change.
+53.	An electronic file exists or can be created for a document.
+54.	A document fits within a certain defined amount of space.
+55.	A document has an author.
+56.	A document exists.
+57.	A document that exists will continue to exist.
+
