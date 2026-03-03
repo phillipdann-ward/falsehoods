@@ -20,8 +20,7 @@
 20.	The latest version of a document is approved for use.
 21.	Earlier versions of a document are no longer in use.
 22.	A document’s version identifier indicates the document’s approval status.
-23.	A version of a document is uniquely identifiable from a combination of its reference and version identifier.
-24.	A document has a reference.
+23.	A document has a reference.
 25.	A document has a version identifier.
 26.	A signed document is approved.
 27.	An approved document is signed.
@@ -61,6 +60,7 @@
 61.	There is a master source/copy of a document.
 62.	A document exists.
 63.	A document that exists will continue to exist.
+
 
 
 
